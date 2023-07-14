@@ -31,7 +31,7 @@ registerRoute(
   ({ request }) =>
     request.destination === "script" ||
     request.destination === "style" ||
-    request.destination === "iamge",
+    request.destination === "image",
   new CacheFirst({
     cacheName: "asset-cache",
     plugins: [
