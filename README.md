@@ -1,4 +1,5 @@
 # J.A.T.E - Just Another Text Editor (A Progressive Web Application)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Description
 
@@ -11,7 +12,7 @@ One of the key aspects of JATE is its ability to use IndexedDB for storing data.
 You can clone the repository to your local machine for development purposes.
 
 ```
-git clone <repository_link>
+git clone <https://github.com/rocas3096/Progressive-Web-Applications-Text-Editor>
 ```
 
 Once cloned, navigate into the project directory and install the necessary dependencies with:
@@ -47,11 +48,16 @@ Upon opening the application, you can start typing in the text editor. If you na
 
 ## Deployment
 
-The application can be deployed to Heroku. Remember to include the necessary start scripts in your package.json file.
+TBA
 
-## Contributing
+## Contributors
 
-This project is open for contributions. Developers can follow the standard Fork & Pull Request workflow to contribute to this project.
+Special thanks to the following contributors for providing the starter code:
+
+- [@Xandromus](https://github.com/Xandromus) - Xander Rapstine
+- [@Georgeyoo](https://github.com/Georgeyoo) - George
+
+Your contribution has been immensely helpful in getting this project off the ground. 
 
 ## License
 
